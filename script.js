@@ -10,14 +10,95 @@ const next = document.getElementById('next');
 
 const data = [
     {
-        city:'Chicago',
+        city:"Chicago",
         videos:[
             'x42Wxn1btTY',
         ],
          music:[
-            'uNd5kvrGHjk',
+            'http://wcrx.streamguys1.com/live',
          ]
-    }
+    },
+    {
+        city:"Chennai",
+        videos:[
+            '1uan36x3Rw4',
+        ],
+         music:[
+            'https://18213.live.streamtheworld.com/CHN_TAM_ESTAAC.aac',
+         ]
+    },
+    {
+        city:"Lisbon",
+        videos:[
+            'syL1jBDxLZE',
+        ],
+         music:[
+            '',
+         ]
+    },
+    {
+        city:"New York City",
+        videos:[
+            'LQLJu-EpkeE',
+        ],
+         music:[
+            '',
+         ]
+    },
+    {
+        city:"Melbourne",
+        videos:[
+            'gQ-9mmnfJjE',
+        ],
+         music:[
+            '',
+         ]
+    },
+    {
+        city:"Cairo",
+        videos:[
+            'Esyp2P0uJu4',
+        ],
+         music:[
+            '',
+         ]
+    },
+    {
+        city:"Rio de Janeiro",
+        videos:[
+            'l8geG89VAMY',
+        ],
+         music:[
+            '',
+         ]
+    },
+    {
+        city:"Johannesburg",
+        videos:[
+            '2-2ZzcWLtS8',
+        ],
+         music:[
+            '',
+         ]
+    },
+    {
+        city:"Miami",
+        videos:[
+            'Cod_ggrs69U',
+        ],
+         music:[
+            '',
+         ]
+    },
+    {
+        city:"Rome",
+        videos:[
+            'ytiM1nMv_xU',
+        ],
+         music:[
+            '',
+         ]
+    },
 ]
 
 // randoom ID
