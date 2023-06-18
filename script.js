@@ -1,3 +1,13 @@
+const toggle = document.getElementById('toggle');
+const mute = document.getElementById('mute');
+const locations = document.getElementById('locations');
+const speed = document.getElementById('speed');
+const audio = document.getElementById('audio');
+const play = document.getElementById('play');
+const prev = document.getElementById('prev');
+const next = document.getElementById('next');
+
+
 const data = [
     {
         city:'Chicago',
@@ -9,6 +19,8 @@ const data = [
          ]
     }
 ]
+
+// randoom ID
 
 // 2. This code loads the IFrame Player API code asynchronously.
 var tag = document.createElement('script');
