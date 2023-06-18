@@ -117,9 +117,12 @@ function onLoad(){
     currentVideo = currentCity.videos[currentVideoIndex];
     currentAudioIndex = randomNumber(currentCity.music.length);
     currentAudio = currentCity.music[currentAudioIndex];
+    
     // video
+    
     console.log(currentCity);
-    // audio.src = currentAudio;
+    audio.src = currentAudio;
+    audio.volume = 0.5;
     play.classList.remove('fa-play');
     play.classList.add('fa-pause');
 
@@ -127,10 +130,37 @@ function onLoad(){
         var locationElement = document.createElement('li');
         locationElement.innerText = el.city;
         locationElement.id= idx;
-        locationElement.addEventListener
+        locationElement.addEventListener('click',() => {
+            currentCityIndex = Number(e.target.id);
+            currentCity = data[currentCityIndex];
+            currentVideoIndex = randomNumber(currentCity.videos.length);
+    currentVideo = currentCity.videos[currentVideoIndex];
+    currentAudioIndex = randomNumber(currentCity.music.length);
+    currentAudio = currentCity.music[currentAudioIndex];
+    
+    audio.src = currentAudio;
+    audio.volume = 0.5;
+    play.classList.remove('fa-play');
+    play.classList.add('fa-pause');
+
+        })
+
+        locations.append(locationElement)
+        highlight()
     })
 
 }
+
+    function highlight() {
+        console.log(locations.childNodes);
+        locations.childNodes.forEach((el, idx) => {
+             el.classList.remove('active');
+             if(idx == currentCityIndex){
+                el.classList.add('active')
+             }
+        })
+    }
+
 function randomNumber (max){
     return Math.floor(Math.random() * (max))
 }
