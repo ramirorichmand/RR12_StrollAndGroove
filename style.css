@@ -2,4 +2,15 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+}
+
+body{
+    height: 100vh;
+}
+
+#player{
+    pointer-events: none;
+    z-index: -99;
+    transform: translate(-5%);
 }

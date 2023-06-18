@@ -11,11 +11,20 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 var player;
 function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
-    height: '390',
-    width: '640',
+    height: window.innerHeight *1.2,
+    width: window.innerHeight *1.2 * (16/9),
     videoId: 'M7lc1UVf-VE',
     playerVars: {
-      'playsinline': 1
+      'playsinline': 1,
+      'controls': 0,
+      'mute': 1,
+      'showinfo':0,
+      'enablejsapi':1,
+      'disablekb':1,
+      'modestbranding':1,
+      'origin':window.location.origin,
+      'widget_referrer':window.location.href,
+
     },
     events: {
       'onReady': onPlayerReady,
