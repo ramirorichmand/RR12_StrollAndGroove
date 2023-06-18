@@ -2,7 +2,7 @@ const toggle = document.getElementById('toggle');
 const mute = document.getElementById('mute');
 const locations = document.getElementById('locations');
 const speed = document.getElementById('speed');
-const audio = document.getElementById('audio');
+const audio = document.getElementById('music');
 const play = document.getElementById('play');
 const prev = document.getElementById('prev');
 const next = document.getElementById('next');
@@ -108,6 +108,7 @@ const data = [
 ]
 
 // randoom ID
+onLoad()
 function onLoad(){
     // city
     currentCityIndex = randomNumber(data.length);
@@ -115,12 +116,56 @@ function onLoad(){
     currentVideoIndex = randomNumber(currentCity.videos.length);
     currentVideo = currentCity.videos[currentVideoIndex];
     currentAudioIndex = randomNumber(currentCity.music.length);
-    currentVideo = currentCity.videos[currentVideoIndex];
+    currentAudio = currentCity.music[currentAudioIndex];
     // video
+    console.log(currentCity);
+    // audio.src = currentAudio;
+    play.classList.remove('fa-play');
+    play.classList.add('fa-pause');
+
+    data.forEach((el, idx) => {
+        var locationElement = document.createElement('li');
+        locationElement.innerText = el.city;
+        locationElement.id= idx;
+        locationElement.addEventListener
+    })
+
 }
 function randomNumber (max){
     return Math.floor(Math.random() * (max))
 }
+
+play.addEventListener('click', ()=> {
+    if(audio.paused){
+        audio.play()
+        play.classList.remove('fa-play');
+        play.classList.add('fa-pause');
+    } else {
+        audio.pause()
+        play.classList.remove('fa-pause');
+        play.classList.add('fa-play');
+    }
+})
+
+next.addEventListener('click',() => {
+    if(currentAudioIndex < (currentCity.music.length -1)) {
+        currentAudioIndex++
+    } else {
+        currentAudioIndex = 0
+    }
+    currentAudio = currentCity.music[currentAudioIndex];
+    audio.src = currentAudio;
+    audio.play()
+})
+
+prev.addEventListener('click', () => {
+    if(currentAudioIndex > 0) {
+        currentAudioIndex--
+    }else{
+        currentAudioIndex = currentCity.music.length -1;
+    }
+
+})
 
 // 2. This code loads the IFrame Player API code asynchronously.
 var tag = document.createElement('script');
