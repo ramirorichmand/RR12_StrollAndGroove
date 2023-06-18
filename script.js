@@ -5,7 +5,7 @@ const data = [
             'x42Wxn1btTY',
         ],
          music:[
-            'https://www.radioguide.fm/internet-radio-usa-illinois/amazing-radios-smooth-and-jazz',
+            'uNd5kvrGHjk',
          ]
     }
 ]

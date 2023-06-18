@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;700&display=swap');
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -7,6 +9,7 @@
 
 body{
     height: 100vh;
+    font-family: 'Poppins' , sans-serif;
 }
 
 #player{
@@ -14,3 +17,56 @@ body{
     z-index: -99;
     transform: translate(-5%);
 }
+
+.sidebar{
+    z-index: 99;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    max-width: 250px;
+    width: 40vw;
+    height: 100vh;
+    color: white;
+    background-color: rgba(0,0,0,0.4);
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar h2{
+    text-align: center;
+}
+
+.sidebar-toggle{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    padding: 5px;
+}
+
+.white{
+    color:white;
+    background-color: rgba(0,0,0,0.4);
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.location-container{
+    background-color: rgba(0,0,0,0.4);
+    border: 1px solid white;
+    border-radius: 2px;
+    margin: 20px 0;
+}
+
+.location-container h4{
+    width: inherit;
+    background-color: rgb(255,255,255,0.3);
+    padding:10px;
+    text-align: center;
+    font-size: 0.8rem;
+    border-bottom: 1px solid white;
+}
+
+.locations{}
+
