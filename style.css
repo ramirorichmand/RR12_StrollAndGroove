@@ -68,5 +68,15 @@ body{
     border-bottom: 1px solid white;
 }
 
-.locations{}
+.locations{
+    max-height: 25vh;
+    overflow-y: scroll;
+}
+
+.locations li{
+    padding: 2px 5px;
+    border-bottom: 1px solid white;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
 
