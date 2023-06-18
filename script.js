@@ -1,3 +1,14 @@
+const data = [
+    {
+        city:'Chicago',
+        videos:[
+            'x42Wxn1btTY',
+        ],
+         music:[
+            'https://www.radioguide.fm/internet-radio-usa-illinois/amazing-radios-smooth-and-jazz',
+         ]
+    }
+]
 
 // 2. This code loads the IFrame Player API code asynchronously.
 var tag = document.createElement('script');
