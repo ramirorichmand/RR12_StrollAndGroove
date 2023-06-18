@@ -61,7 +61,7 @@ body{
 
 .location-container h4{
     width: inherit;
-    background-color: rgb(255,255,255,0.3);
+    background-color: rgba(255,255,255,0.3);
     padding:10px;
     text-align: center;
     font-size: 0.8rem;
@@ -80,3 +80,79 @@ body{
     font-size: 0.9rem;
 }
 
+.locations li:hover{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.locations li{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.speed{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.video-speed{
+    margin: 5px 0;
+}
+
+.video-speed h4{
+    text-align: center;
+    padding: 5px 0;
+}
+
+.speed p, .mute{
+    cursor: pointer;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.4);
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.speed p:hover, .mute:hover{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.speed p.active{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.car-noise{
+    text-align: center;
+    padding: 5px 0;
+}
+
+.car-noise h4{
+    padding: 5px 0;
+}
+
+.audio{
+    text-align: center;
+    background-color: rgba(0,0,0,0.4);
+    margin: 20px 0;
+    border-radius: 2px;
+    border: 1px solid white;
+}
+
+.audio h4{
+    text-align: center;
+    background-color: rgba(255,255,255,0.3);
+    border-bottom: 1px solid white;
+}
+
+.audio-controls{
+    display: flex;
+    flex-direction: column;
+}
+
+.controls{
+    padding: 15px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 1px solid white;
+}
+
+.voluume
