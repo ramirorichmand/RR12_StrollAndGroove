@@ -7,6 +7,12 @@ const play = document.getElementById('play');
 const prev = document.getElementById('prev');
 const next = document.getElementById('next');
 
+var currentCityIndex;
+var currentCity;
+var currentVideoIndex;
+var currentVideo;
+var currentAudioIndex;
+var currentAudio;
 
 const data = [
     {
@@ -33,7 +39,7 @@ const data = [
             'syL1jBDxLZE',
         ],
          music:[
-            '',
+            'http://radiolisboa.ddns.net:8080/stream/1/',
          ]
     },
     {
@@ -42,7 +48,7 @@ const data = [
             'LQLJu-EpkeE',
         ],
          music:[
-            '',
+            'https://22073.live.streamtheworld.com/WBBRAMAAC.aac',
          ]
     },
     {
@@ -51,7 +57,7 @@ const data = [
             'gQ-9mmnfJjE',
         ],
          music:[
-            '',
+            'https://live-radio03.mediahubaustralia.com/3LRW/aac/',
          ]
     },
     {
@@ -60,7 +66,7 @@ const data = [
             'Esyp2P0uJu4',
         ],
          music:[
-            '',
+            'https://audio.nrpstream.com/listen/nile_fm/radio.mp3',
          ]
     },
     {
@@ -69,7 +75,7 @@ const data = [
             'l8geG89VAMY',
         ],
          music:[
-            '',
+            'https://a1rj.streams.com.br/stream',
          ]
     },
     {
@@ -78,7 +84,7 @@ const data = [
             '2-2ZzcWLtS8',
         ],
          music:[
-            '',
+            'https://capeant.antfarm.co.za:8000/ptafm',
          ]
     },
     {
@@ -87,7 +93,7 @@ const data = [
             'Cod_ggrs69U',
         ],
          music:[
-            '',
+            'https://01.solumedia.com.ar:9050/stream',
          ]
     },
     {
@@ -96,12 +102,25 @@ const data = [
             'ytiM1nMv_xU',
         ],
          music:[
-            '',
+            'https://uk2.streamingpulse.com/ssl/vcr1',
          ]
     },
 ]
 
 // randoom ID
+function onLoad(){
+    // city
+    currentCityIndex = randomNumber(data.length);
+    currentCity = data(currentCityIndex);
+    currentVideoIndex = randomNumber(currentCity.videos.length);
+    currentVideo = currentCity.videos[currentVideoIndex];
+    currentAudioIndex = randomNumber(currentCity.music.length);
+    currentVideo = currentCity.videos[currentVideoIndex];
+    // video
+}
+function randomNumber (max){
+    return Math.floor(Math.random() * (max))
+}
 
 // 2. This code loads the IFrame Player API code asynchronously.
 var tag = document.createElement('script');
