@@ -1,5 +1,16 @@
 LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 	{
+		"id": 23,
+		"name": "Accra, Ghana",
+		"videoId": "VXUxkr9OsiI",
+		"radio": {
+			"url": "",
+			"name": ""
+		},
+		"startTime": 80
+	},
+	
+	{
 		"id": 3,
 		"name": "Beverly Hills, California",
 		"videoId": "ybnQcnWssWg",
@@ -21,6 +32,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 	},
 
 	{
+        "id": 24,
+        "name": "Buenos Aires, Argentina",
+        "videoId": "Pafh8WxKPrU",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 840
+    },
+
+	{
         "id": 13,
         "name": "Copenhagen, Denmark",
         "videoId": "AQqPG14QjJM",
@@ -29,6 +51,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": ""
         },
         "startTime": 18
+    },
+
+	{
+        "id": 21,
+        "name": "Cyberpunk, 2077",
+        "videoId": "b_rwSMbd1Vk",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 10
     },
 
 
@@ -191,6 +224,16 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "startTime": 50
     },
 	
+	{
+        "id": 22,
+        "name": "Sydney, Australia",
+        "videoId": "dK3ih5op1F8",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 120
+    },
 
 	{
         "id": 14,
