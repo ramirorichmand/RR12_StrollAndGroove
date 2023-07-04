@@ -1,6 +1,6 @@
 # 04/06/23 RR12 Ramble with Rami: Part 1 - Stroll and Groove 🏝🗽🥾🎒
 
-<img src ="./assets/banner.png" alt="Ramble with Rami Banner" width="100%"/>
+<img src ="./assets/banner1.png" alt="Ramble with Rami Banner" width="100%"/>
 
 
 Welcome to Stroll & Groove, an immersive platform that allows you to virtually experience walking through different cities around the world while enjoying local sounds and music. 🌍🎧
