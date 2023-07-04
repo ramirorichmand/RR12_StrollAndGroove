@@ -42,7 +42,4 @@ Stroll & Groove was inspired by the popular 'Drive & Listen' project, which allo
 
 ---
 
-<img src ="./assets/banner3.png" alt="Ramble with Rami Banner 3" width="100%"/>
-
-
 We hope you enjoy using Stroll & Groove and that it provides you with a unique and immersive way to explore cities around the world. Happy strolling and grooving! 🥾🎒

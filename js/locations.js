@@ -19,6 +19,30 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 29
 	},
+
+	{
+        "id": 13,
+        "name": "Copenhagen, Denmark",
+        "videoId": "AQqPG14QjJM",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 18
+    },
+
+
+	{
+        "id": 12,
+        "name": "Downtown New York City, New York",
+        "videoId": "KJbHcb5ZI_4",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 30
+    },
+
 	{
 		"id": 7,
 		"name": "Dubai, United Arab Emirates",
@@ -109,6 +133,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 55
 	}
+
+	{
+        "id": 14,
+        "name": "Ubud, Bali, Indonesia",
+        "videoId": "5p5FoQR8wTM",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 5
+    },
 ]
 
 function chooseRandomLocation() {
