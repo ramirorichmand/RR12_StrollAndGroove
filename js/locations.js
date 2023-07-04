@@ -116,6 +116,18 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 18
 	},
+
+	{
+        "id": 30,
+        "name": "Lake Como, Bellagio, Italy",
+        "videoId": "o7XgU4ut6jQ",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 120
+    },
+
 	{
 		"id": 5,
 		"name": "Lisbon, Portugal",
@@ -149,6 +161,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
     },
 
 	{
+        "id": 26,
+        "name": "Medellín, Colombia",
+        "videoId": "jgMg2_owl0s",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 56
+    },
+
+	{
         "id": 17,
         "name": "Mexico City, Mexico",
         "videoId": "fVh9YNTzhak",
@@ -170,6 +193,18 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 48
 	},
+
+	{
+        "id": 27,
+        "name": "Moscow, Russia",
+        "videoId": "dtZ2Bn4TO4g",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 10
+    },
+
 	{
 		"id": 8,
 		"name": "Nuremberg, Germany",
@@ -180,6 +215,40 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 27
 	},
+
+	{
+        "id": 28,
+        "name": "Oslo, Norway",
+        "videoId": "TD6rh0LtWQI",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 5
+    },
+
+	{
+        "id": 29,
+        "name": "Palermo, Sicily",
+        "videoId": "MTG3VA-m6qk",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 120
+    },
+
+	{
+        "id": 25,
+        "name": "Rio de Janeiro, Brazil",
+        "videoId": "wXzegSoBGFw",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 420
+    },
+
 	{
 		"id": 2,
 		"name": "Rome, Italy",
