@@ -9,7 +9,29 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 80
 	},
+
+	{
+        "id": 37,
+        "name": "Athens, Greece",
+        "videoId": "W1EJY_CFtWs",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 467
+    },
 	
+	{
+        "id": 31,
+        "name": "Barcelona, Spain",
+        "videoId": "3N4oFYMJvH8",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 11
+    },
+
 	{
 		"id": 3,
 		"name": "Beverly Hills, California",
@@ -32,6 +54,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 	},
 
 	{
+        "id": 36,
+        "name": "Budapest, Hungary",
+        "videoId": "XJDVn1WZRSw",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 280
+    },
+
+	{
         "id": 24,
         "name": "Buenos Aires, Argentina",
         "videoId": "Pafh8WxKPrU",
@@ -40,6 +73,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": ""
         },
         "startTime": 840
+    },
+
+	{
+        "id": 40,
+        "name": "Chicago, Illinois",
+        "videoId": "5alwy_vLWUM",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 45
     },
 
 	{
@@ -182,6 +226,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "startTime": 44
     },
 
+	{
+        "id": 39,
+        "name": "Monte Carlo, Monaco",
+        "videoId": "2vx3utqzZ1I",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 21
+    },
+
 
 	{
 		"id": 11,
@@ -203,6 +258,28 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": ""
         },
         "startTime": 10
+    },
+
+	{
+        "id": 38,
+        "name": "Mykonos, Greece",
+        "videoId": "Skhl3C-6WL8",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 45
+    },
+
+	{
+        "id": 32,
+        "name": "Nice, France",
+        "videoId": "UNpzuU3H1d0",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 9
     },
 
 	{
@@ -239,6 +316,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
     },
 
 	{
+        "id": 34,
+        "name": "Prague, Czech Republic",
+        "videoId": "DhyY3Wh3J-8",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 5
+    },
+
+	{
         "id": 25,
         "name": "Rio de Janeiro, Brazil",
         "videoId": "wXzegSoBGFw",
@@ -259,6 +347,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 55
 	},
+
+	{
+        "id": 33,
+        "name": "Santorini, Greece",
+        "videoId": "JbH_heoKccs",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 71
+    },
 
 	{
         "id": 19,
@@ -313,6 +412,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": ""
         },
         "startTime": 5
+    },
+
+	{
+        "id": 35,
+        "name": "Valletta, Malta",
+        "videoId": "KPV1hFJIXrg",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 91
     },
 
 	{
