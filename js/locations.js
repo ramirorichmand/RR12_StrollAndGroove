@@ -103,6 +103,30 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 31
 	},
+
+	{
+        "id": 16,
+        "name": "Manhattan, New York City",
+        "videoId": "6y5CqAHxGX0",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 1
+    },
+
+	{
+        "id": 17,
+        "name": "Mexico City, Mexico",
+        "videoId": "fVh9YNTzhak",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 44
+    },
+
+
 	{
 		"id": 11,
 		"name": "Montreal, Canada",
@@ -132,7 +156,41 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 			"name": "RDS"
 		},
 		"startTime": 55
-	}
+	},
+
+	{
+        "id": 19,
+        "name": "Singapore, Republic of Singapore",
+        "videoId": "SYpRb2Pxl6o",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 63
+    },
+
+	{
+        "id": 20,
+        "name": "Seoul, South Korea",
+        "videoId": "3aas-RT7Ul8",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 31
+    },
+
+	{
+        "id": 18,
+        "name": "Tokyo, Japan",
+        "videoId": "0nTO4zSEpOs",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 50
+    },
+	
 
 	{
         "id": 14,
@@ -143,6 +201,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": ""
         },
         "startTime": 5
+    },
+
+	{
+        "id": 15,
+        "name": "Venice, Italy",
+        "videoId": "ZNJjMNQnfLc",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 3
     },
 ]
 
