@@ -326,6 +326,18 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "startTime": 5
     },
 
+    {
+        "id": 42,
+        "name": "Rethymno, Greece",
+        "videoId": "91q_XSSDCDE",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 15
+    },
+
+
 	{
         "id": 25,
         "name": "Rio de Janeiro, Brazil",
