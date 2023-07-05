@@ -435,6 +435,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         },
         "startTime": 3
     },
+
+    {
+        "id": 41,
+        "name": "Venice Canal Tour, Italy",
+        "videoId": "91q_XSSDCDE",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 1
+    },
 ]
 
 function chooseRandomLocation() {
