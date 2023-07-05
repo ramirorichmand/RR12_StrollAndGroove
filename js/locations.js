@@ -43,23 +43,12 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		"startTime": 13
 	},
 	{
-		"id": 10,
-		"name": "Budapest, Hungary",
-		"videoId": "dHbLCfbdUVo",
-		"radio": {
-			"url": "http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3",
-			"name": "103.9 Best FM"
-		},
-		"startTime": 29
-	},
-
-	{
         "id": 36,
         "name": "Budapest, Hungary",
         "videoId": "XJDVn1WZRSw",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3",
+            "name": "v"
         },
         "startTime": 280
     },
@@ -73,6 +62,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": ""
         },
         "startTime": 840
+    },
+
+    {
+        "id": 10,
+        "name": "Brno, Czecha",
+        "videoId": "BGRhCDKz6lQ",
+        "radio": {
+            "url": "",
+            "name": ""
+        },
+        "startTime": 8
     },
 
 	{
