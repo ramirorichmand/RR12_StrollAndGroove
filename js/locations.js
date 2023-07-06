@@ -409,8 +409,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Sydney, Australia",
         "videoId": "dK3ih5op1F8",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://21333.live.streamtheworld.com/2GB.mp3",
+            "name": "2GB Sydney"
         },
         "startTime": 120
     },
@@ -420,8 +420,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Ubud, Bali, Indonesia",
         "videoId": "5p5FoQR8wTM",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://live.phoenixradiobali.com:8250/phoenixradio",
+            "name": "Phoenix Radio Bali"
         },
         "startTime": 5
     },
@@ -431,8 +431,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Valletta, Malta",
         "videoId": "KPV1hFJIXrg",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://s10.voscast.com:8203/stream",
+            "name": "One Radio"
         },
         "startTime": 91
     },
@@ -442,8 +442,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Venice, Italy",
         "videoId": "ZNJjMNQnfLc",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://ice45.fluidstream.net/vjr.aac?FLID=8",
+            "name": "Venice Jazz Radio"
         },
         "startTime": 3
     },
@@ -453,8 +453,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Venice Canal Tour, Italy",
         "videoId": "91q_XSSDCDE",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "http://sr2.inmystream.info:8040/stream",
+            "name": "Capital Disko"
         },
         "startTime": 1
     },
