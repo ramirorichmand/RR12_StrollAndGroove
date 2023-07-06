@@ -58,8 +58,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Buenos Aires, Argentina",
         "videoId": "Pafh8WxKPrU",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://stream-159.zeno.fm/60pqgs97f2zuv?zs=zvNvBBGMTfaN4gmcSELthg",
+            "name": "Planeta Cumbia Latina"
         },
         "startTime": 840
     },
@@ -69,8 +69,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Brno, Czecha",
         "videoId": "BGRhCDKz6lQ",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://ice.abradio.cz/magicbrno128.mp3",
+            "name": "Hitrádio City"
         },
         "startTime": 8
     },
@@ -80,8 +80,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Chicago, Illinois",
         "videoId": "5alwy_vLWUM",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://stream.wbez.org/wbez64-web.aac",
+            "name": "Chicago Public Radio"
         },
         "startTime": 45
     },
@@ -91,8 +91,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Copenhagen, Denmark",
         "videoId": "AQqPG14QjJM",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "http://live-icy.gss.dr.dk/A/A08L.mp3",
+            "name": "DR P4 København"
         },
         "startTime": 18
     },
@@ -102,8 +102,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Cyberpunk, 2077",
         "videoId": "b_rwSMbd1Vk",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://coderadio-admin.freecodecamp.org/radio/8010/radio.mp3",
+            "name": "Code Radio"
         },
         "startTime": 10
     },
