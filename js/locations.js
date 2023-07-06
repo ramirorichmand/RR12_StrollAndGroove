@@ -254,8 +254,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Moscow, Russia",
         "videoId": "dtZ2Bn4TO4g",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://nashe1.hostingradio.ru/best-128.mp3",
+            "name": "Best FM Moscow"
         },
         "startTime": 10
     },
@@ -265,8 +265,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Mykonos, Greece",
         "videoId": "Skhl3C-6WL8",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "http://sfera.live24.gr/sfera4132",
+            "name": "Sfera 102.2"
         },
         "startTime": 45
     },
@@ -276,8 +276,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Nice, France",
         "videoId": "UNpzuU3H1d0",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://str1.openstream.co/589?aw_0_1st.collectionid%3D3139%26stationId%3D3139%26publisherId%3D613%26k%3D1688630626",
+            "name": "ABC Lounge"
         },
         "startTime": 9
     },
@@ -298,8 +298,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Oslo, Norway",
         "videoId": "TD6rh0LtWQI",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://p4.p4groupaudio.com/P04_MM",
+            "name": "P4 Lyden av Norge"
         },
         "startTime": 5
     },
@@ -309,8 +309,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Palermo, Sicily",
         "videoId": "MTG3VA-m6qk",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio",
+            "name": "Radio Cuore Italia"
         },
         "startTime": 120
     },
@@ -320,8 +320,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Prague, Czech Republic",
         "videoId": "DhyY3Wh3J-8",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://22533.live.streamtheworld.com/FREKVENCE1AAC.aac",
+            "name": "Frekvence 1"
         },
         "startTime": 5
     },
@@ -331,8 +331,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Rethymno, Greece",
         "videoId": "91q_XSSDCDE",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "http://live.skyradio.gr:9920/;",
+            "name": "Sky Radio"
         },
         "startTime": 15
     },
@@ -343,8 +343,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Rio de Janeiro, Brazil",
         "videoId": "wXzegSoBGFw",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://eu10.fastcast4u.com/iloverio",
+            "name": "I Love Rio Radio"
         },
         "startTime": 420
     },
@@ -365,8 +365,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Santorini, Greece",
         "videoId": "JbH_heoKccs",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://cast2.radiohost.ovh/8000?mp=/stream/",
+            "name": "Rodos.Greece"
         },
         "startTime": 71
     },
@@ -376,8 +376,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Singapore, Republic of Singapore",
         "videoId": "SYpRb2Pxl6o",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://rdopanel.cobrasoftwares.org:1065/stream",
+            "name": "Naga FM"
         },
         "startTime": 63
     },
@@ -387,8 +387,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Seoul, South Korea",
         "videoId": "3aas-RT7Ul8",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://stream-149.zeno.fm/nkb20ze9t18uv?zs=WsIRDdxPSlqjIDBEEFn0LQ",
+            "name": "Moon Music"
         },
         "startTime": 31
     },
@@ -398,8 +398,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Tokyo, Japan",
         "videoId": "0nTO4zSEpOs",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://kathy.torontocast.com:3560/;",
+            "name": "J-Pop Powerplay"
         },
         "startTime": 50
     },
