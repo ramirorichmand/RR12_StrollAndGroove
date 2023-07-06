@@ -4,8 +4,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		"name": "Accra, Ghana",
 		"videoId": "VXUxkr9OsiI",
 		"radio": {
-			"url": "",
-			"name": ""
+			"url": "https://citi973fm.radioca.st/stream/1/",
+			"name": "Citi FM"
 		},
 		"startTime": 80
 	},
@@ -15,8 +15,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Athens, Greece",
         "videoId": "W1EJY_CFtWs",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://stream.vanillaradio.com:8012/live",
+            "name": "Vanilla Radio"
         },
         "startTime": 467
     },
@@ -26,8 +26,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Barcelona, Spain",
         "videoId": "3N4oFYMJvH8",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://21313.live.streamtheworld.com/RAC_1_SC",
+            "name": "RAC 1"
         },
         "startTime": 11
     },
@@ -187,8 +187,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		"name": "London, England",
 		"videoId": "MGMqLGvtNpY",
 		"radio": {
-			"url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
-			"name": "BBC 1"
+			"url": "https://media-ssl.musicradio.com/Capital",
+			"name": "Capital FM"
 		},
 		"startTime": 31
 	},
