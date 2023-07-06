@@ -114,8 +114,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Downtown New York City, New York",
         "videoId": "KJbHcb5ZI_4",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://live.powerhitz.com/hot108?aw_0_req.gdpr=true",
+            "name": "Hot 108 Jamz"
         },
         "startTime": 30
     },
@@ -166,8 +166,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Lake Como, Bellagio, Italy",
         "videoId": "o7XgU4ut6jQ",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://kisskiss.fluidstream.eu/KKItalia.aac?FLID=M",
+            "name": "TeleRadioStereo"
         },
         "startTime": 120
     },
@@ -198,8 +198,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Manhattan, New York City",
         "videoId": "6y5CqAHxGX0",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://26113.live.streamtheworld.com/WBBRAMAAC48_SC",
+            "name": "Bloomberg New York"
         },
         "startTime": 1
     },
@@ -209,8 +209,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Medellín, Colombia",
         "videoId": "jgMg2_owl0s",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://22833.live.streamtheworld.com/BLURADIO_ADP_SC?dist=%252520blu_web",
+            "name": "Blu Radio"
         },
         "startTime": 56
     },
@@ -220,8 +220,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Mexico City, Mexico",
         "videoId": "fVh9YNTzhak",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://stream-155.zeno.fm/2ieszeso9istv?zs=zyGoecKtQSyPKwA3kiPzqA",
+            "name": "RADIO HABANA"
         },
         "startTime": 44
     },
@@ -231,8 +231,8 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "name": "Monte Carlo, Monaco",
         "videoId": "2vx3utqzZ1I",
         "radio": {
-            "url": "",
-            "name": ""
+            "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+            "name": "Radio Monaco "
         },
         "startTime": 21
     },
