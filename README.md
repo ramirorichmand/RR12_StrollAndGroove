@@ -1,7 +1,6 @@
-# 04/06/23 RR12 Ramble with Rami: Part 1 - Stroll and Groove 🏝🗽🥾🎒
+ # 04/06/23 RR12 Ramble with Rami: Part 1 - Stroll and Groove 🏝🗽🥾🎒
 
 <img src ="./assets/banner1.png" alt="Ramble with Rami Banner" width="100%"/>
-
 
 Welcome to Stroll & Groove, an immersive platform that allows you to virtually experience walking through different cities around the world while enjoying local sounds and music. 🌍🎧
 
@@ -13,13 +12,13 @@ Stroll & Groove is a project that aims to provide users with an engaging and int
 
 - **Virtual City Walks**: 🏞️ Take virtual walks through iconic cities worldwide and immerse yourself in the local environment.
 - **Realistic Street Views**: 🌆 Experience realistic street views to get a sense of the city's architecture, landmarks, and streetscapes.
-- **Curated Audio Content**: 🎵 Listen to a variety of local sounds, music, and ambient audio that captures the spirit of each city.
-- **Interactive Experience**: 🕹️ Navigate through the city streets using intuitive controls and explore different neighborhoods and attractions.
-- **City Selection**: 🌇 Choose from a diverse range of cities to stroll through and discover their unique vibes.
+- **Curated Audio Content**: 🎵 Listen to a variety of local sounds, music, and ambient audio that captures the spirit of each city. (Over 50 local sounds/radios available, with more to be added)
+- **Interactive Experience**: 🕹️ Navigate through the city streets using intuitive controls and explore different neighborhoods and attractions. (Please note that there may be some buffering, so please wait a few seconds)
+- **City Selection**: 🌇 Choose from a diverse range of cities to stroll through and discover their unique vibes. (My personal recommendation: Start with Budapest!)
 
 ## Inspiration
 
-Stroll & Groove was born out of the desire to explore and experience new places during lockdown. As a student preparing for university finals, I found myself missing out on the opportunity to travel to unique destinations. This project became my way of bringing the world to me, helping me study at home while virtually exploring different cities. I wanted to create an interactive and immersive experience that would transport users to exciting destinations and provide a much-needed break from everyday routines.
+Stroll & Groove was born out of the desire to explore new places and experience past adventures during lockdown. As a student preparing for university finals, I found myself missing out on the opportunity to travel to unique destinations. This project became my way of bringing the world to me, helping me study at home while virtually exploring different cities. I wanted to create an interactive and immersive experience that would transport users to exciting destinations and provide a much-needed break from everyday routines.
 
 ## Contributing
 
@@ -39,7 +38,8 @@ Stroll & Groove is a project licensed under the MIT License.
 
 Stroll & Groove was inspired by the popular 'Drive & Listen' project, which allowed users to explore the world from the comfort of their homes. 🚶🎶
 
-
 ---
 
-We hope you enjoy using Stroll & Groove and that it provides you with a unique and immersive way to explore cities around the world. Happy strolling and grooving! 🥾🎒
+I hope you enjoy using Stroll & Groove and that it provides you with a unique and immersive way to explore places around the world. Happy strolling and grooving! 🥾🎒
+
+Further recommendations are welcome! Let me know which places you'd like to see next 🌃

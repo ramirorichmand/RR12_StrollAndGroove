@@ -1,4 +1,4 @@
-LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
+LOCATIONS = [ 
 	{
 		"id": 23,
 		"name": "Accra, Ghana",
@@ -30,6 +30,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": "RAC 1"
         },
         "startTime": 11
+    },
+
+    {
+        "id": 50,
+        "name": "Berlin, Germany",
+        "videoId": "zca688Ecwpk",
+        "radio": {
+            "url": "https://topradio-de-hz-fal-stream08-cluster01.radiohost.de/kissfm_mp3-192",
+            "name": "Kiss FM Radio"
+        },
+        "startTime": 43
     },
 
 	{
@@ -66,7 +77,7 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 
     {
         "id": 10,
-        "name": "Brno, Czecha",
+        "name": "Brno, Czech Republic",
         "videoId": "BGRhCDKz6lQ",
         "radio": {
             "url": "https://ice.abradio.cz/magicbrno128.mp3",
@@ -77,7 +88,7 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 
 	{
         "id": 40,
-        "name": "Chicago, Illinois",
+        "name": "Chicago, Illinois, U.S",
         "videoId": "5alwy_vLWUM",
         "radio": {
             "url": "https://stream.wbez.org/wbez64-web.aac",
@@ -111,7 +122,7 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 
 	{
         "id": 12,
-        "name": "Downtown New York City, New York",
+        "name": "Downtown New York City, New York, U.S",
         "videoId": "KJbHcb5ZI_4",
         "radio": {
             "url": "https://live.powerhitz.com/hot108?aw_0_req.gdpr=true",
@@ -130,15 +141,27 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 19
 	},
+
+    {
+        "id": 48,
+        "name": "Dubrovnik, Croatia",
+        "videoId": "DGDqwjQDwUQ",
+        "radio": {
+            "url": "https://s5.radio.co/s8cf5effc6/listen",
+            "name": "Radio More"
+        },
+        "startTime": 390
+    },
+
 	{
 		"id": 9,
-		"name": "Disney Magic Kingdom, Florida",
+		"name": "Disney Magic Kingdom, Florida, U.S",
 		"videoId": "M-3cS51G6oQ",
 		"radio": {
 			"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC_SC",
 			"name": ".977 Today's Hits"
 		},
-		"startTime": 43
+		"startTime": 70
 	},
 	{
 		"id": 4,
@@ -150,6 +173,18 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 91
 	},
+
+    {
+        "id": 43,
+        "name": "Hanoi, Vietnam",
+        "videoId": "nbQ_z-0ZO28",
+        "radio": {
+            "url": "http://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3",
+            "name": "RFI Tiếng Việt"
+        },
+        "startTime": 65
+    },
+
 	{
 		"id": 6,
 		"name": "Ibiza, Spain",
@@ -195,7 +230,7 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 
 	{
         "id": 16,
-        "name": "Manhattan, New York City",
+        "name": "Manhattan, New York City, U.S",
         "videoId": "6y5CqAHxGX0",
         "radio": {
             "url": "https://26113.live.streamtheworld.com/WBBRAMAAC48_SC",
@@ -258,6 +293,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": "Best FM Moscow"
         },
         "startTime": 10
+    },
+
+    {
+        "id": 45,
+        "name": "Mumbai, India",
+        "videoId": "ItH9EDnsTgw",
+        "radio": {
+            "url": "https://14223.live.streamtheworld.com/CHN_TAM_ESTAAC.aac",
+            "name": "Radio Mirchi"
+        },
+        "startTime": 2
     },
 
 	{
@@ -329,7 +375,7 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
     {
         "id": 42,
         "name": "Rethymno, Greece",
-        "videoId": "91q_XSSDCDE",
+        "videoId": "KxULYONI4wU",
         "radio": {
             "url": "http://live.skyradio.gr:9920/;",
             "name": "Sky Radio"
@@ -359,6 +405,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
 		},
 		"startTime": 55
 	},
+
+    {
+        "id": 49,
+        "name": "Saint Petersburg, Russia",
+        "videoId": "KBeCMiUPuic",
+        "radio": {
+            "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+            "name": "Record"
+        },
+        "startTime": 33
+    },
 
 	{
         "id": 33,
@@ -437,6 +494,17 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
         "startTime": 91
     },
 
+    {
+        "id": 46,
+        "name": "Vancouver, Canada",
+        "videoId": "lh8dNmneVyY",
+        "radio": {
+            "url": "https://s4.radio.co/s5de101e4f/listen",
+            "name": "Epic Radio"
+        },
+        "startTime": 15
+    },
+
 	{
         "id": 15,
         "name": "Venice, Italy",
@@ -457,6 +525,28 @@ LOCATIONS = [ // http://stream1.bestfmbudapest.hu/bestfm_nyiregyhaza.mp3
             "name": "Capital Disko"
         },
         "startTime": 1
+    },
+
+    {
+        "id": 47,
+        "name": "Wengen, Switzerland",
+        "videoId": "y5SUzYFV2vc",
+        "radio": {
+            "url": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+            "name": "Radio Swiss Classic"
+        },
+        "startTime": 720
+    },
+
+    {
+        "id": 44,
+        "name": "Zhangjiajie, Hunan, China",
+        "videoId": "JV48zMUWC6A",
+        "radio": {
+            "url": "https://lhttp.qingting.fm/live/339/64k.mp3",
+            "name": "北京新闻广播"
+        },
+        "startTime": 45
     },
 ]
 
