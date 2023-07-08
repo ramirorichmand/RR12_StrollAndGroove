@@ -38,6 +38,16 @@ Stroll & Groove is a project licensed under the MIT License.
 
 Stroll & Groove was inspired by the popular 'Drive & Listen' project, which allowed users to explore the world from the comfort of their homes. 🚶🎶
 
+## Show Your Support 🤝
+
+<b> Thank you </b> for taking the time to drop by and check out this project  ☺️
+
+If you've liked or found this helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions 📬
+
+Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and aim to share meaningful content for the <b> travellers, daydreamers, and those that crave a taste of the world's vibrant melodies </b> 🌎
+
+Thank you again for your support! 🙏
+
 ---
 
 I hope you enjoy using Stroll & Groove and that it provides you with a unique and immersive way to explore places around the world. Happy strolling and grooving! 🥾🎒
